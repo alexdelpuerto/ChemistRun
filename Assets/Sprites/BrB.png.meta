@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: f95a6769ba6c860469290ea15384f981
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 110
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Cristal
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1410
+        width: 568
+        height: 514
+      alignment: 9
+      pivot: {x: .49152106, y: .724871099}
+    - name: Barril
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1382
+        width: 2196
+        height: 560
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Barriles
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1402
+        width: 4112
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Brazos
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 618
+        width: 224
+        height: 768
+      alignment: 9
+      pivot: {x: .711702228, y: .904781997}
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 270
+        width: 652
+        height: 1132
+      alignment: 9
+      pivot: {x: .580813289, y: .43250823}
+    - name: Piernas
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 558
+        width: 276
+        height: 772
+      alignment: 9
+      pivot: {x: .356819928, y: .871971309}
+    - name: Caravana
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 0
+        width: 5958
+        height: 1234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Guantes
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 242
+        height: 221
+      alignment: 9
+      pivot: {x: .336704165, y: .80994314}
+    - name: Zapatos
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 342
+        width: 388
+        height: 128
+      alignment: 9
+      pivot: {x: .241980791, y: .685239792}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1454
+        width: 544
+        height: 594
+      alignment: 9
+      pivot: {x: .412828892, y: .0786562338}
+  spritePackingTag: 
+  userData: 
